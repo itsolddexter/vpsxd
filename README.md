@@ -1,7 +1,4 @@
-
-
-
-#Config Variable # C ...
+use this Config Variable...
 ``` NGROK_TOKEN```
 
 
